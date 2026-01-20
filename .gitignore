@@ -8,13 +8,28 @@ __pycache__/
 venv/
 .env
 
+<<<<<<< HEAD
 # OS files
 .DS_Store
 Thumbs.db
 
+=======
+>>>>>>> 9ae785f (Initial commit: misinformation memory assistant)
 # IDE
 .vscode/
 .idea/
 
+<<<<<<< HEAD
 # Logs
 *.log
+=======
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Qdrant local storage (if inside repo)
+storage/
+>>>>>>> 9ae785f (Initial commit: misinformation memory assistant)

@@ -1,0 +1,29 @@
+[
+  {
+    "claim": "Drinking bleach can cure COVID-19",
+    "source": "Social Media",
+    "date": "2020-04",
+    "verdict": "False",
+    "evidence": "WHO and CDC confirm bleach is toxic and does not cure COVID-19.",
+    "image_url": "https://example.com/bleach-misinformation.jpg",
+  "times_seen": 1
+  },
+  {
+    "claim": "5G towers spread coronavirus",
+    "source": "Facebook",
+    "date": "2020-05",
+    "verdict": "False",
+    "evidence": "Viruses cannot travel on radio waves. No scientific evidence supports this claim.",
+    "image_url": "https://example.com/bleach-misinformation.jpg",
+  "times_seen": 1
+  },
+  {
+    "claim": "Vaccines cause infertility",
+    "source": "Twitter",
+    "date": "2021-02",
+    "verdict": "False",
+    "evidence": "Large-scale studies show no link between vaccines and infertility.",
+    "image_url": "https://example.com/bleach-misinformation.jpg",
+  "times_seen": 1
+  }
+]
